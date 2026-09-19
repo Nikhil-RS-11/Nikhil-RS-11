@@ -1,8 +1,8 @@
 -  Hi, I’m @Nikhil-RS-11
 -  I’m interested in Coding, Chess, Football
--  I’m currently learning Python
--  I’m looking to collaborate on HTML, CSS, Python
--  How to reach me- discord: minceraft_player
+-  I’m currently learning PostgreSQL
+-  I’m looking to collaborate on Python, C++, HTML, CSS, JS
+-  How to reach me- discord: nik1811_
 -  Pronouns: He/Him
 -  Fun fact: ...
 
